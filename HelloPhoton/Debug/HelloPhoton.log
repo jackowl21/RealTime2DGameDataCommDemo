@@ -1,0 +1,15 @@
+﻿  Application.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\user\desktop\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(257): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(258): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(406): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(415): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(544): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(793): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(813): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\desktop\photonglfwmotiondemo_simple\hellophoton\application.cpp(827): warning C4305: 'argument': truncation from 'double' to 'float'
+  HelloPhoton.vcxproj -> C:\Users\User\Desktop\PhotonGLFWMotionDemo_simple\Debug\HelloPhoton.exe
